@@ -215,14 +215,6 @@ The generated HTML report includes:
 
 ---
 
-# 🌐 Example Report
-
-Latest execution report hosted on GitHub Pages:
-
-https://jesusqaenginner.github.io/Paylocity_Benefits_Dashboard-API_Automation-Postman/reports/report.html
-
----
-
 # 🚀 CI/CD Readiness
 
 ## 🌐 Example Report
