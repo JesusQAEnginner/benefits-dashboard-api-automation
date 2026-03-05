@@ -1,11 +1,5 @@
 # 🧪 Benefits API Automation Framework
 
-![API Testing](https://img.shields.io/badge/API-Testing-green)
-![Postman](https://img.shields.io/badge/Postman-Collection-orange)
-![Newman](https://img.shields.io/badge/Newman-CLI-blue)
-![Node.js](https://img.shields.io/badge/Node.js-Runtime-green)
-![Automation](https://img.shields.io/badge/Test-Automation-purple)
-
 Automated API testing framework designed to validate the **Employees & Benefits module** using **Postman + Newman CLI execution**.
 
 The framework focuses on validating **business rules, financial calculations, and full CRUD workflows** under deterministic execution conditions.
