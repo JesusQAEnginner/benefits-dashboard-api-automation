@@ -11,6 +11,7 @@ The collection supports deterministic execution through collection variables and
 ## 📁 Contents
 
 ### `paylocity-benefits-dashboard.postman_collection.json`
+
 Main Postman collection containing:
 
 - CRUD validation
@@ -40,3 +41,16 @@ Import the collection into Postman or execute it using Newman.
 
 ```bash
 newman run postman/paylocity-benefits-dashboard.postman_collection.json
+```
+
+### With HTML report
+
+```bash
+newman run postman/paylocity-benefits-dashboard.postman_collection.json -r htmlextra --reporter-htmlextra-export reports/report.html
+```
+
+---
+
+## 🏁 Final Note
+
+This collection is the core automation artifact of the repository and represents the API validation layer of the framework.
