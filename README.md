@@ -16,6 +16,33 @@ The framework focuses on validating **business rules, financial calculations, an
 
 ---
 
+# 📁 Repository Structure
+
+```text
+benefits-dashboard-api-automation/
+│
+├── docs/
+│   ├── README.md
+│   └── screenshots/
+│       ├── README.md
+│       ├── collection-variables.png
+│       └── newman-report.png
+│
+├── postman/
+│   ├── README.md
+│   └── paylocity-benefits-dashboard.postman_collection.json
+│
+├── reports/
+│   ├── README.md
+│   └── report.html
+│
+└── README.md
+```
+
+This structure separates supporting documentation, execution artifacts, and the Postman collection used for API validation.
+
+---
+
 # ⚙️ Collection Variables
 
 This collection uses **Postman Collection Variables** to ensure consistent and deterministic execution across environments.
